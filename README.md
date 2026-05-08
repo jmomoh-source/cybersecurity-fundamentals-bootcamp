@@ -14,6 +14,7 @@ The bootcamp covered foundational topics in cybersecurity, including:
 - Security principles and best practices
 - Threat modeling and risk assessment
 - Practical exercises in system protection
+- Red Team tactics and AI-driven security
 
 ---
 
@@ -22,13 +23,14 @@ The bootcamp covered foundational topics in cybersecurity, including:
 | Resource | File | Focus |
 |----------|------|-------|
 | **Networking Fundamentals** | [networking_fundamentals.md](./networking_fundamentals.md) | Basics of networking concepts, protocols, and security implications |
+| **Red Team & AI in Cybersecurity** | [red_team_ai_cybersecurity.md](./red_team_ai_cybersecurity.md) | Cyber Kill Chain, AI-powered phishing, deepfakes, and AI-driven SOC automation |
 | *(More coming soon)* | *(to be added)* | Threat models, security layers, etc. |
 
 ---
 
 ## 🏅 Bootcamp Details
 - **Title:** Cybersecurity Fundamentals Bootcamp  
-- **Duration:** 3 days (6th Wed– 8th Fri, May 2026)  
+- **Duration:** 3 days (6th Wed – 8th Fri, May 2026)  
 - **Format:** Hands-on sessions, lectures, and exercises  
 - **Status:** Materials collection in progress  
 
@@ -38,6 +40,7 @@ The bootcamp covered foundational topics in cybersecurity, including:
 This repo demonstrates my commitment to expanding beyond software engineering into **cybersecurity fundamentals**. It highlights:
 - Understanding of networking and security basics  
 - Documentation of bootcamp learnings  
+- Exploration of Red Team tactics and AI-driven defenses  
 - A growing resource hub for cybersecurity knowledge  
 
 ---
